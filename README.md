@@ -28,7 +28,16 @@ I'm passionate about turning complex data into actionable insights while buildin
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=candy-hub-1748&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120" alt="Pull Shark"/>
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="120" alt="Pair Extraordinaire"/>
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="120" alt="YOLO"/>
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="120" alt="Quickdraw"/>
+</p>
 
+<p align="center">
+🏅 Pull Shark • 🫛 Pair Extraordinaire • 🎯 YOLO • 🤠 Quickdraw
+</p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
