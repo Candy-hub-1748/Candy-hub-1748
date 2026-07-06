@@ -11,13 +11,6 @@ I'm passionate about turning complex data into actionable insights while buildin
 - 📚 Exploring Data Engineering & Cloud Technologies
 - 💡 Contributing to Open Source and improving problem-solving skills
 
-### 💼 Tech Stack
-**Languages:** Python • Java • JavaScript • SQL
-
-**Frontend:** HTML • CSS • JavaScript
-
-**Databases:** MySQL • MongoDB
-
 **Tools:** Git • GitHub • VS Code • Power BI • Excel
 
 ### 🎯 2026 Goals
