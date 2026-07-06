@@ -38,8 +38,7 @@ I'm passionate about turning complex data into actionable insights while buildin
 <p align="center">
 🏅 Pull Shark • 🫛 Pair Extraordinaire • 🎯 YOLO • 🤠 Quickdraw
 </p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=candy-hub-1748&icon=0&color=0)](https://visitcount.itsvg.in)
