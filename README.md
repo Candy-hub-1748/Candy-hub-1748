@@ -1,6 +1,32 @@
 # 💫 About Me:
-🔭 I’m currently working on personal web development projects<br>🌱 I’m currently learning HTML, CSS, JavaScript, Git, and GitHub<br>👯 I’m looking to collaborate on web development projects<br>🤝 I’m looking for help with frontend development and responsive design<br>💬 Ask me about HTML, CSS, and beginner web development<br>⚡ Fun fact: I enjoy creating creative and interactive websites
+## 👋 Hey, I'm Aashish Kumar
 
+🎓 BCA Student | 📊 Aspiring Data Analyst | 💻 Software Developer
+
+I'm passionate about turning complex data into actionable insights while building modern, user-friendly applications. I enjoy solving real-world problems through technology and continuously expanding my knowledge in Data Analytics and Software Development.
+
+### 🚀 Currently
+- 🔭 Building Data Analytics & Web Development Projects
+- 🌱 Learning Advanced Python, SQL, Power BI & Machine Learning
+- 📚 Exploring Data Engineering & Cloud Technologies
+- 💡 Contributing to Open Source and improving problem-solving skills
+
+### 💼 Tech Stack
+**Languages:** Python • Java • JavaScript • SQL
+
+**Frontend:** HTML • CSS • JavaScript
+
+**Databases:** MySQL • MongoDB
+
+**Tools:** Git • GitHub • VS Code • Power BI • Excel
+
+### 🎯 2026 Goals
+- 📊 Build impactful Data Analytics Projects
+- 🌟 Contribute to Open Source
+- 🏆 Strengthen DSA & Problem Solving
+- 💼 Secure a Data Analyst / Software Developer Role
+
+> *"Transforming data into insights and ideas into reality."* 🚀
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
